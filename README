@@ -16,21 +16,21 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 ## Experience ##
 
 ### Chief Architect/founder, Glee Machine, LLC.; Portland, OR - June 2009-Present ###
-######CTO consultancy company servicing small and medium sized businesses.######
+####CTO consultancy company servicing small and medium sized businesses.####
 * Designed and built AWS based cloud infrastructure including databases, web-servers, file server and vpn functionality.
 * Developed and released to production all mobile and web collateral.
 * Built various business automation systems including CMS, CRM, and engineering management systems.
 * Current clients include ADI Mobile Health of Portland OR., Van Specialties, Inc. of Troutdale, OR, Itsybid.com, and Bottle And Box.
 
 ### President and CTO, mGlee inc.; Portland, OR - 2006-2010 ###
-######Mobile consumer products company.######
+####Mobile consumer products company.####
 * Responsible for all aspects of technology and business development.
 * Successfully developed relationships with key players in the mobile industry.
 * Developed, marketed, sold and evangelized consumer and business mobile products and services, including mobile web and off-the-dock applications, mobile marketing, and mobile media.
 * Developed our flagship mobile web product using PHP, XML/XSLT, mySQL with mobile device detection scripts and content delivery systems. Developed web services consuming various partner content with XML data and parsing engines.
 
 ### Owner, GreaterthanStudios; Portland, OR - 2001-2006 ###
-######Web-based entertainment portal for music, visual art, and video.######
+####Web-based entertainment portal for music, visual art, and video.####
 * Responsible for business development, web development, and application development.
 * Also managed the creation of web-based entertainment including music, visual art, and video.
 
