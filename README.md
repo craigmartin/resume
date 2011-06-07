@@ -1,3 +1,10 @@
+# Craig Martin #
+
+* __Address__: 3330 H. Street, Washougal WA, 98671
+* __Device__: 503-901-0021
+* __URL__: mglee.com ; gleemachine.co
+* __Email__: craig (at) thegleemachine (dot) com
+
 ## Profile ##
 
 Creative, energetic, and driven technology leader with 15 years of CTO and engineering experience. Innovation agent, problem solver and developer of mobile applications and web technologies. Excellence in diverse programming languages, with the ability to rapidly learn new ones. Excels in developing and implementing robust and scalable network infrastructures while leveraging cloud architecture. The ability to rapidly translate design to substance.
