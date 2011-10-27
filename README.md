@@ -31,6 +31,12 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * Managed daily operations process setup and documentation.
 * Technologies used: Rails 3.0.1, Mongo, SOLR, Engine Yard Cloud, git and Github, 37 Signals Suite.
 
+### CTO, Itsybid.com; Portland, OR - June 2011 - ongoing consulting ###
+* Transitioned product to AWS from dedicated server.
+* Redesigned architecture for auction system and timers from PHP to Ruby and JS.
+* Working to design Node.js servers for individual auction item sockets.
+* Assisted in technology to support international licensing of product line.
+
 ### Chief Architect/founder, Glee Machine, LLC.; Portland, OR - June 2009-Present ###
 ####CTO consultancy company servicing small and medium sized businesses.####
 * Designed and built AWS based cloud infrastructure including databases, web-servers, file server and vpn functionality.
