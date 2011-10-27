@@ -16,11 +16,20 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * __Web Technologies__: AJAX, CSS, SASS, XML, JSON, XHTML/HTML4 and 5, REST, OpenID, OAuth, DOM, Cucumber
 * __Applications__: Nginx,Apache, Firebug, Git/GitHub, Subversion, Varnish, VMware, Xen, Hudson, Monit, Puppet, Chef.
 * __Operating Systems__: Mac OSX, Linux (Ubuntu, Fedora, FreeBSD), MS Windows.
-* __Cloud Computing__: Amazon Web Services, Heruku, Google App Engine, and RackSpace.
+* __Cloud Computing__: Amazon Web Services, Heruku, Google App Engine, Engine Yard, and RackSpace.
 * __Databases__: mySql, MongoDB, CouchDB, Redis, Cassandra (in process), Microsoft SQL Server, SQLite.
+* __API's__: WebSOLR, Google Apps, Twitter, Facebook, YouTube, OpenAuth, YDN.
 * __New Technologies__: Node.js, Redis, HTML5, Amazon SNS and CloudFront, CloudFormation, CloudWatch.
+* __Philosophies__: MVP (minimum viable product), Agile Development, SCRUM, Pair Programming, Lean Operations, Saving Money.
 
 ## Experience ##
+
+### CTO and Chief Developer, EquipmentHunters.com; Twin Falls, ID - Aug-Oct 2011 consulting ###
+* Transitioned production product and in development product to distributed dev team in India.
+* Led successful development cycle for an auction system built with Rails and JS.
+* Architected the design of asynch functionality using Node.js.
+* Managed daily operations process setup and documentation.
+* Technologies used: Rails 3.0.1, Mongo, SOLR, Engine Yard Cloud, git and Github, 37 Signals Suite.
 
 ### Chief Architect/founder, Glee Machine, LLC.; Portland, OR - June 2009-Present ###
 ####CTO consultancy company servicing small and medium sized businesses.####
