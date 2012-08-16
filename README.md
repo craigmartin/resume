@@ -24,6 +24,16 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 
 ## Experience ##
 
+###Lead Ruby Developer: Centerpointe Research Institute; Beaverton, OR – May-Aug 2012 consulting
+* Daily ruby and ruby on rails tasks for production websites and applications.
+* Interfaced with Oracle and MySQL databases running legacy data.
+* Converted legacy PHP applications to Ruby applications.
+* Developed custom shopping cart using Shopify to seamlessly integrate into existing systems.
+* Re-factored production Ruby on Rails applications to best practices. (use of helpers, indexing sql queries, implementing the use of engines, setup Bundler with current 2.3 version, moved to Ruby 1.9.2 and 1.9.3.
+* Led preparations for upgrading production applications from Ruby on Rails 2.3 to Ruby on Rails 3.2.
+* Developed standards for agile work-flow including Github practices, SCRUM, and Continuous Integration.
+* Developed front-end code using Javascript, SASS, and HAML.
+
 ### CTO and Chief Developer, EquipmentHunters.com; Twin Falls, ID - Aug-Oct 2011 consulting ###
 * Transitioned production product and in development product to distributed dev team in India.
 * Led successful development cycle for an auction system built with Rails and JS.
