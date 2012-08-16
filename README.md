@@ -11,8 +11,8 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 
 ## Skills ##
 
-* __Languages__: JavaScript, Ruby, Python, Node.js, PHP.
-* __Frameworks__: Ruby on Rails 2 & 3, Django, various PHP frames, Expression (MVC for Node.js), jQuery, Sinatra, Padrino.
+* __Languages__: JavaScript, Ruby, Node.js, PHP.
+* __Frameworks__: Ruby on Rails 2 & 3, various PHP frames, Expression (MVC for Node.js), jQuery, Sinatra, Padrino.
 * __Web Technologies__: AJAX, CSS, SASS, XML, JSON, XHTML/HTML4 and 5, REST, OpenID, OAuth, DOM, Cucumber
 * __Applications__: Nginx,Apache, Firebug, Git/GitHub, Subversion, Varnish, VMware, Xen, Hudson, Monit, Puppet, Chef.
 * __Operating Systems__: Mac OSX, Linux (Ubuntu, Fedora, FreeBSD), MS Windows.
