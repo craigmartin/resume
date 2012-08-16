@@ -1,5 +1,5 @@
 # Craig Martin #
-
+(Backend === true && Frontend === true && Environment === true)
 * __Address__: 3330 H. Street, Washougal WA, 98671
 * __Device__: 503-901-0021
 * __URL__: mglee.com ; gleemachine.co
