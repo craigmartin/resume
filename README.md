@@ -24,6 +24,16 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 
 ## Experience ##
 
+###Lead Ruby Engineer, Rejuvenation Inc; Portland, OR – Sep-Nov 2012 consulting
+* Daily ruby and rails tasks for production websites and applications.
+* Interfaced with MS Dynamics and SQL databases running product data.
+* Acted as Senior Systems Engineer to cover vacation time. Backed up on Senior Systems Engineering tasks.
+(Network hardware support, DAX and IIS support, Ruby full-stack support, product rendering server support)
+* Optimized production Ruby application code using best practices. (Observers and Presenters, MongoDB index optimization, implementing test coverage for existing code, moved from Resque to Sidekiq for background tasks.)
+* Created SCRUM practices to promote Agile Methodologies and to assist in my leadership efforts.
+* Led multiple distributed engineering teams (7-10 engineers + 2 management) in daily and long-term projects. (utilized standardized SCRUM practices like stand-ups and Agile Methods from scratch in 2 week iterations using Pivotal Tracker and other tools)
+* Optimization of Caching systems utilizing Sidekiq. Upgraded Mongoid 2 to Mongoid 3 and backed by Redis servers.
+
 ###Lead Ruby Developer: Centerpointe Research Institute; Beaverton, OR – May-Aug 2012 consulting
 * Daily ruby and ruby on rails tasks for production websites and applications.
 * Interfaced with Oracle and MySQL databases running legacy data.
