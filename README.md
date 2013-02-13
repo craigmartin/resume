@@ -1,9 +1,9 @@
 # Craig Martin #
 (Backend === true && Frontend === true && Environment === true)
-* __Address__: 2746 NE 62nd Ave. Portland, OR 97213
+* __Address__: Santa Clara, CA and Portland, OR 97213
 * __Device__: 503-901-0021
 * __URL__: mglee.com ; gleemachine.co
-* __Email__: craig (at) thegleemachine (dot) com
+* __Email__: bodytoss2012 (at) gmail (dot) com
 
 ## Profile ##
 
@@ -11,7 +11,9 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 
 ## Skills ##
 
+* __CurrentFocus__: I'm playing with Scala at work.
 * __Languages__: JavaScript, Ruby, Node.js, PHP.
+* __Cloud and Enterprise Specialties__: AutoScaling, CloudFormation, Chef, ElasticSearch.
 * __Frameworks__: Ruby on Rails 2 & 3, various PHP frames, Expression (MVC for Node.js), jQuery, Sinatra, Padrino.
 * __Web Technologies__: AJAX, CSS, SASS, XML, JSON, XHTML/HTML4 and 5, REST, OpenID, OAuth, DOM, Cucumber
 * __Applications__: Nginx,Apache, Firebug, Git/GitHub, Subversion, Varnish, VMware, Xen, Hudson, Monit, Puppet, Chef.
@@ -19,12 +21,16 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * __Cloud Computing__: Amazon Web Services, Heruku, Google App Engine, Engine Yard, and RackSpace.
 * __Databases__: mySql, MongoDB, CouchDB, Redis, Cassandra (in process), Microsoft SQL Server, SQLite.
 * __API's__: WebSOLR, Google Apps, Twitter, Facebook, YouTube, OpenAuth, YDN.
-* __New Technologies__: Node.js, Redis, HTML5, Amazon SNS and CloudFront, CloudFormation, CloudWatch.
-* __Philosophies__: MVP (minimum viable product), Agile Development, SCRUM, Pair Programming, Lean Operations, Saving Money.
+* __Philosophies__: MVP (minimum viable product), Agile Development, SCRUM, Pair Programming, Lean Operations, Using Money Right.
 
 ## Experience ##
+###Cloud Operations Engineer, Intel Corp.; Santa Clara, CA - Current 2013
+* Production infrastructure
+* Everything Cloud
+* Deployment automation for all environments
+* Solving tough engineering problems
 
-###Lead Ruby Engineer, Rejuvenation Inc; Portland, OR – Sep-Nov 2012 consulting
+###Lead Ruby Engineer, Rejuvenation Inc; Portland, OR – Sep-Nov 2012 consulting ###
 * Daily ruby and rails tasks for production websites and applications.
 * Interfaced with MS Dynamics and SQL databases running product data.
 * Acted as Senior Systems Engineer to cover vacation time. Backed up on Senior Systems Engineering tasks.
@@ -34,7 +40,7 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * Led multiple distributed engineering teams (7-10 engineers + 2 management) in daily and long-term projects. (utilized standardized SCRUM practices like stand-ups and Agile Methods from scratch in 2 week iterations using Pivotal Tracker and other tools)
 * Optimization of Caching systems utilizing Sidekiq. Upgraded Mongoid 2 to Mongoid 3 and backed by Redis servers.
 
-###Lead Ruby Developer: Centerpointe Research Institute; Beaverton, OR – May-Aug 2012 consulting
+###Lead Ruby Developer: Centerpointe Research Institute; Beaverton, OR – May-Aug 2012 consulting ###
 * Daily ruby and ruby on rails tasks for production websites and applications.
 * Interfaced with Oracle and MySQL databases running legacy data.
 * Converted legacy PHP applications to Ruby applications.
@@ -51,7 +57,7 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * Managed daily operations process setup and documentation.
 * Technologies used: Rails 3.0.1, Mongo, SOLR, Engine Yard Cloud, git and Github, 37 Signals Suite.
 
-### CTO, Itsybid.com; Portland, OR - June 2011 - ongoing consulting ###
+### CTO, Itsybid.com; Portland, OR - June 2011 - consulting ###
 * Transitioned product to AWS from dedicated server.
 * Redesigned architecture for auction system and timers from PHP to Ruby and JS.
 * Working to design Node.js servers for individual auction item sockets.
