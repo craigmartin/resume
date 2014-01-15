@@ -2,7 +2,7 @@
 (Backend === true && Frontend === true && Environment === true)
 * __Address__: Santa Clara, CA and Portland, OR 97213
 * __Device__: 503-901-0021
-* __URL__: mglee.com ; gleemachine.co
+* __URL__: the.gleemachine.com
 * __Email__: bodytoss2012 (at) gmail (dot) com
 
 ## Profile ##
@@ -30,6 +30,14 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * Deployment automation for all environments utilizing cloudformation, auto-scaling, and chef
 * Solving tough engineering problems like scaling streaming video on the cloud or architecting LunaSA encryption with AWS HSm to scale to millions of devices
 * Responsible for release management and production deployment for 150 software engineers
+
+
+### Chief Architect/founder, Glee Machine, LLC.; Portland, OR - June 2009-Present ###
+####CTO consultancy company servicing small and medium sized businesses.####
+* Designed and built AWS based cloud infrastructure including databases, web-servers, file server and vpn functionality.
+* Engineering team development, infrastructure scaling and automation, engineering release management.
+* Built various business automation systems including CMS, CRM, and engineering management systems.
+* Current clients include Intel Corp., stealth health care startup and Bottle And Box.
 
 ###Lead Ruby Engineer, Rejuvenation Inc; Portland, OR – Sep-Nov 2012 consulting ###
 * Daily ruby and rails tasks for production websites and applications.
@@ -63,13 +71,6 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * Redesigned architecture for auction system and timers from PHP to Ruby and JS.
 * Working to design Node.js servers for individual auction item sockets.
 * Assisted in technology to support international licensing of product line.
-
-### Chief Architect/founder, Glee Machine, LLC.; Portland, OR - June 2009-Present ###
-####CTO consultancy company servicing small and medium sized businesses.####
-* Designed and built AWS based cloud infrastructure including databases, web-servers, file server and vpn functionality.
-* Developed and released to production all mobile and web collateral.
-* Built various business automation systems including CMS, CRM, and engineering management systems.
-* Current clients include ADI Mobile Health of Portland OR., Van Specialties, Inc. of Troutdale, OR, Itsybid.com, and Bottle And Box.
 
 ### President and CTO, mGlee inc.; Portland, OR - 2006-2010 ###
 ####Mobile consumer products company.####
