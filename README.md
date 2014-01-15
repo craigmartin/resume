@@ -11,12 +11,12 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 
 ## Skills ##
 
-* __CurrentFocus__: I'm playing with Scala at work.
+* __CurrentFocus__: Learning Scala, Hadoop, Cassandra cluster, Mongo cluster, scaling Node.js
 * __Languages__: JavaScript, Ruby, Node.js, PHP.
 * __Cloud and Enterprise Specialties__: AutoScaling, CloudFormation, Chef, ElasticSearch.
 * __Frameworks__: Ruby on Rails 2 & 3, various PHP frames, Expression (MVC for Node.js), jQuery, Sinatra, Padrino.
 * __Web Technologies__: AJAX, CSS, SASS, XML, JSON, XHTML/HTML4 and 5, REST, OpenID, OAuth, DOM, Cucumber
-* __Applications__: Nginx,Apache, Firebug, Git/GitHub, Subversion, Varnish, VMware, Xen, Hudson, Monit, Puppet, Chef.
+* __Applications__: Nginx,Apache, Firebug, Git/GitHub, Subversion, Varnish, VMware, Xen, Hudson, Monit, Puppet, Chef, Copper Egg, Splunk, New Relic.
 * __Operating Systems__: Mac OSX, Linux (Ubuntu, Fedora, FreeBSD), MS Windows.
 * __Cloud Computing__: Amazon Web Services, Heruku, Google App Engine, Engine Yard, and RackSpace.
 * __Databases__: mySql, MongoDB, CouchDB, Redis, Cassandra (in process), Microsoft SQL Server, SQLite.
@@ -24,11 +24,12 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * __Philosophies__: MVP (minimum viable product), Agile Development, SCRUM, Pair Programming, Lean Operations, Using Money Right.
 
 ## Experience ##
-###Cloud Operations Engineer, Intel Corp.; Santa Clara, CA - Current 2013
-* Production infrastructure
-* Everything Cloud
-* Deployment automation for all environments
-* Solving tough engineering problems
+###Cloud Operations Engineer, Intel Corp.; Santa Clara, CA - Jan 2013 - Current
+* Production infrastructure - architected and rotating 24/7 support of AWS HA/DR infrastructure
+* AWS Cloud - architected HSm system, secure VPC environment with VPN tunneling into Corp Network to deliver highly secured key data, Redshift services, Mongo clusters, EMR, Kafka with ZooKeeper
+* Deployment automation for all environments utilizing cloudformation, auto-scaling, and chef
+* Solving tough engineering problems like scaling streaming video on the cloud or architecting LunaSA encryption with AWS HSm to scale to millions of devices
+* Responsible for release management and production deployment for 150 software engineers
 
 ###Lead Ruby Engineer, Rejuvenation Inc; Portland, OR – Sep-Nov 2012 consulting ###
 * Daily ruby and rails tasks for production websites and applications.
