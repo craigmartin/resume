@@ -24,7 +24,7 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * __Philosophies__: MVP (minimum viable product), Agile Development, SCRUM, Pair Programming, Lean Operations, Using Money Right.
 
 ## Experience ##
-###Cloud Operations Engineer, Intel Corp.; Santa Clara, CA - Jan 2013 - Current
+###Senior Cloud Operations Engineer, Intel Corp.; Santa Clara, CA - Jan 2013 - Current
 * Production infrastructure - architected and rotating 24/7 support of AWS HA/DR infrastructure
 * AWS Cloud - architected HSm system, secure VPC environment with VPN tunneling into Corp Network to deliver highly secured key data, Redshift services, Mongo clusters, EMR, Kafka with ZooKeeper
 * Deployment automation for all environments utilizing cloudformation, auto-scaling, and chef
