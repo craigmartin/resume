@@ -11,7 +11,7 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 
 ## Skills ##
 
-* __CurrentFocus__: Learning Scala, Hadoop, Cassandra cluster, Mongo cluster, scaling Node.js
+* __CurrentFocus__: Scala, Hadoop, Cassandra cluster, Mongo cluster, scaling Node.js
 * __Languages__: JavaScript, Ruby, Node.js, PHP.
 * __Cloud and Enterprise Specialties__: AutoScaling, CloudFormation, Chef, ElasticSearch.
 * __Frameworks__: Ruby on Rails 2 & 3, various PHP frames, Expression (MVC for Node.js), jQuery, Sinatra, Padrino.
