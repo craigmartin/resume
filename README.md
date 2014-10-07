@@ -14,7 +14,7 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * __CurrentFocus__: Docker, CoreOS, Lua, Go Lang, Scala, Hadoop, Cassandra cluster, Mongo cluster, Redis cluster, scaling Node.js
 * __Languages__: Go, JavaScript, Lua, Scala, Ruby, PHP.
 * __Cloud and Enterprise Specialties__: AutoScaling, CloudFormation, Chef, ElasticSearch.
-* __Frameworks__:  Node.js, Ruby on Rails 2 & 3, various PHP frames, Expression (MVC for Node.js), jQuery, Sinatra, Padrino.
+* __Frameworks__:  Node.js, Ruby on Rails 2 & 3, various PHP frames, Express (MVC for Node.js), jQuery, Sinatra, Padrino.
 * __Web Technologies__: AJAX, CSS, SASS, XML, JSON, XHTML/HTML4 and 5, REST, OpenID, OAuth, DOM, Cucumber
 * __Applications__: Nginx, Apache, Firebug, Git/GitHub, Subversion, Varnish, VMware, Xen, Hudson, Jenkins, Monit, Puppet, Chef, Copper Egg, Splunk, New Relic.
 * __Operating Systems__: Mac OSX, Linux (CentOS, AmazonLinux, CoreOS, Ubuntu, Fedora, FreeBSD), MS Windows.
