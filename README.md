@@ -9,6 +9,15 @@
 
 Creative, energetic, and driven technology leader with 15 years of CTO and engineering experience. Innovation agent, problem solver and developer of mobile applications and web technologies. Excellence in diverse programming languages, with the ability to rapidly learn new ones. Excels in developing and implementing robust and scalable network infrastructures while leveraging cloud architecture. The ability to rapidly translate design to substance.
 
+## 2014-1015 Projects ##
+
+* __Cassandra Clusters__: Assisted in design and deployment of Cassandra rings into AWS. Multi-AZ and inside existing layered VPC network.
+* __Mongo Clusters__: Architecture and Automated Deployment of Mongo clusters inside VPC.
+* __Elasticsearch Clusters__: Automated deployment of Elasticsearch cluster in a layered VPC network.
+* __Multi AZ VPC__: Architecure and Automated Deployment of VPC network with modular layers for security pen testing including VPC Peering for secure intra-network communication.
+* __Tableau+Redshift__: Architecture and Automated delpoyment of MS Servers in a layered VPC with Tableau integrating with Redshift for data persistence.
+* __VPN Tunnels__: Deployed multiple secured VPN tunnels to connect media sources to AWS infrastructure.
+
 ## Skills ##
 
 * __CurrentFocus__: Docker, CoreOS, Lua, Go Lang, Scala, Hadoop, Cassandra cluster, Mongo cluster, Redis cluster, scaling Node.js
