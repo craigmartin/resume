@@ -14,6 +14,8 @@ Creative, energetic, and driven technology leader with 15 years of CTO and engin
 * __Cassandra Clusters__: Assisted in design and deployment of Cassandra rings into AWS. Multi-AZ and inside existing layered VPC network.
 * __Mongo Clusters__: Architecture and Automated Deployment of Mongo clusters inside VPC.
 * __Elasticsearch Clusters__: Automated deployment of Elasticsearch cluster in a layered VPC network.
+* __'ELK Stack'__: Automated deployment of ElasticSearch, Logstash, and Kirbana for monitoring with Flask and Funnel.
+* __Kafka and ZooKeeper__: Deployment of Kafka and ZooKeeper into a VPC to feed Spark jobs.
 * __HA CloudHSM__: Architected and deployment of Highly Available HSm devices with Certificate Provision services to secure web services and client cert management. R&D for HSm use with Cassandra Clusters for encryption key management.
 * __Multi AZ VPC__: Architecure and Automated Deployment of VPC network with modular layers for security pen testing including VPC Peering for secure intra-network communication.
 * __Tableau+Redshift__: Architecture and Automated delpoyment of MS Servers in a layered VPC with Tableau integrating with Redshift for data persistence.
